@@ -12,6 +12,12 @@ const port = 5501;
 // Assume your JSON data is stored in a file named 'data.json'
 const dataPath = join(__dirname, 'data/combined_questions_responses.json');
 
+app.use((req, res, next) => {
+    res.header('Access-Control-Allow-Origin', 'https://main--encuestas-min-justicia.netlify.app');
+    res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
+    next();
+  });
+
 app.get('/questions', async (req, res) => {
     try {
         const { chapter_id, survey_id } = req.query;
