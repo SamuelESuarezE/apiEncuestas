@@ -1,0 +1,2488 @@
+{
+    "questions": [
+        {
+            "chapter_id": 1,
+            "id": 1,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P1",
+            "question_text": "Nombre completo del encuestado:",
+            "response_type": "text",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 1,
+            "id": 2,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P2",
+            "question_text": "Nombre de entidad, organización o comunidad a la que representa:",
+            "response_type": "text",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 1,
+            "id": 3,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P3",
+            "question_text": "Número de celular:",
+            "response_type": "text",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 1,
+            "id": 4,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P4",
+            "question_text": "Correo electrónico:",
+            "response_type": "text",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 1,
+            "id": 5,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P5",
+            "question_text": "Nombre departamento:",
+            "response_type": "text",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 1,
+            "id": 6,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P6",
+            "question_text": "Código departamento:",
+            "response_type": "text",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 1,
+            "id": 7,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P7",
+            "question_text": "Nombre municipio:",
+            "response_type": "text",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 1,
+            "id": 8,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P8",
+            "question_text": "Código municipio:",
+            "response_type": "text",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 1,
+            "id": 10,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P10",
+            "question_text": "¿Nos autoriza a realizar la encuesta?",
+            "response_type": "boolean",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Sí",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "No",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 2,
+            "id": 14,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P14",
+            "question_text": "¿Cuál es el nombre completo del cargo ocupación o rol que usted desempeña actualmente?",
+            "response_type": "text",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 3,
+            "id": 20,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P20",
+            "question_text": "¿Por qué no cuentan con un mecanismo para el registro de los casos que atienden?",
+            "response_type": "text",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 3,
+            "id": 21,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P21",
+            "question_text": "¿Usted realiza seguimiento a los casos que atiende en ejercicio de su competencia?",
+            "response_type": "boolean",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Sí",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "No",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 3,
+            "id": 23,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P23",
+            "question_text": "¿Pertenece a una o varias instancias de coordinación local o regional entre instituciones que prestan servicios de justicia?",
+            "response_type": "boolean",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Sí",
+                    "question_parent": 0,
+                    "comment_response": "Pase a la pregunta P24"
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "No",
+                    "question_parent": 0,
+                    "comment_response": "Pase a la pregunta P25"
+                }
+            ]
+        },
+        {
+            "chapter_id": 3,
+            "id": 26,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P26",
+            "question_text": "¿Cuáles actores u operadores considera usted que no tienen presencia en el municipio y son necesarios para el acceso a la justicia?",
+            "response_type": "text",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 3,
+            "id": 29,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P29",
+            "question_text": "¿Por qué no se realizan acciones de comunicación y divulgación para que la comunidad conozca la oferta de servicios de acceso a la justicia?",
+            "response_type": "text",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 3,
+            "id": 30,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P30",
+            "question_text": "¿En qué temas le gustaría capacitarse relacionados con acceso a la justicia?",
+            "response_type": "text",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 3,
+            "id": 31,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P30A",
+            "question_text": "¿Le suministran a usted los medios de transporte para realizar los desplazamientos necesarios?",
+            "response_type": "boolean",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 6,
+            "id": 42,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P41",
+            "question_text": "¿Usted ha identificado algún conflicto entre empresas y comunidad en el municipio?",
+            "response_type": "boolean",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 6,
+            "id": 43,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P42",
+            "question_text": "¿El municipio cuenta con una política pública de acceso a la justicia?",
+            "response_type": "boolean",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 6,
+            "id": 44,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P43",
+            "question_text": "Describa los énfasis de la política pública de acceso a la justicia a nivel municipal.",
+            "response_type": "text",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 6,
+            "id": 45,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P44",
+            "question_text": "¿Qué acciones ha emprendido la administración para fortalecer la justicia a nivel municipal?",
+            "response_type": "text",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 6,
+            "id": 46,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P45",
+            "question_text": "¿Qué apoyo o articulación necesitan con la institucionalidad nacional o departamental para fortalecer la justicia en su municipio?",
+            "response_type": "text",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 6,
+            "id": 47,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P45A",
+            "question_text": "¿Cuál es el presupuesto anual disponible en su entidad para proyectos relacionados con acceso a la justicia en el municipio?",
+            "response_type": "text",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 6,
+            "id": 48,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P46",
+            "question_text": "¿Desea agregar algún comentario o recomendación?",
+            "response_type": "text",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 1,
+            "id": 11,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P11",
+            "question_text": "¿Cuál es su edad?",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Entre 18 a 25 años",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "Entre 26 a 35 años",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "3",
+                    "option_text": "Entre 36 a 45 años",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "4",
+                    "option_text": "Entre 46 a 55 años",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "5",
+                    "option_text": "Mayor de 56 años",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 1,
+            "id": 12,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P12",
+            "question_text": "¿De acuerdo con su cultura, pueblo o rasgos físicos... usted se reconoce como:",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Indígena",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "Gitano / ROM",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "3",
+                    "option_text": "Raizal del archipiélago de San Andrés y Providencia",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "4",
+                    "option_text": "Palenquero de San Basilio",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "5",
+                    "option_text": "Negro, mulato, afrodescendiente o afrocolombiano",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "6",
+                    "option_text": "Ninguno de los anteriores",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 1,
+            "id": 13,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P13",
+            "question_text": "¿Cuál es su nivel educativo más alto alcanzado?",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Ninguno",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "Preescolar",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "3",
+                    "option_text": "Básica primaria (1-5)",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "4",
+                    "option_text": "Básica secundaria (6-9)",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "5",
+                    "option_text": "Media (10-13)",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "6",
+                    "option_text": "Técnico",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "7",
+                    "option_text": "Tecnólogo",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "8",
+                    "option_text": "Profesional",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "9",
+                    "option_text": "Especialista",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "10",
+                    "option_text": "Magister",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "11",
+                    "option_text": "Doctorado",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "12",
+                    "option_text": "No sabe / No informa",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 2,
+            "id": 15,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P15",
+            "question_text": "¿Cuántos años de experiencia tiene en este cargo u ocupación?",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Menor de 1 año",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "Entre 1 a 3 años",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "3",
+                    "option_text": "Entre 4 a 6 años",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "4",
+                    "option_text": "Entre 7 a 9 años",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "5",
+                    "option_text": "10 años o mayor",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 2,
+            "id": 16,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P16",
+            "question_text": "¿Las funciones / labores que usted desempeña tiene cobertura?",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Urbana",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "Rural",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "3",
+                    "option_text": "Ambas",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 2,
+            "id": 17,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P17",
+            "question_text": "¿Qué tipo de vinculación tiene usted en el cargo ocupación o rol que desempeña actualmente?",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Carrera administrativa",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "Provisional",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "3",
+                    "option_text": "Prestación de servicios",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "4",
+                    "option_text": "Libre nombramiento y remoción",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "5",
+                    "option_text": "Ad honorem (sin retribución económica)",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "6",
+                    "option_text": "Otro ¿Cuál?",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 3,
+            "id": 19,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P19",
+            "question_text": "El registro de los casos que atienden les permite conocer información específica sobre:",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Número total de casos - Sí",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "Número total de casos - No",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "3",
+                    "option_text": "Número total de casos - No sabe",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "4",
+                    "option_text": "Número de casos activos - Sí",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "5",
+                    "option_text": "Número de casos activos - No",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "6",
+                    "option_text": "Número de casos activos - No sabe",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "7",
+                    "option_text": "Número de casos archivados - Sí",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "8",
+                    "option_text": "Número de casos archivados - No",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "9",
+                    "option_text": "Número de casos archivados - No sabe",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 3,
+            "id": 22,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P22",
+            "question_text": "¿Cuáles son las principales dificultades que se presentan y que generan demoras en el trámite de los casos que atiende?",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Falta de personal",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "Falta de herramientas tecnológicas",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "3",
+                    "option_text": "Falta de articulación con otras entidades presentes en el municipio",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "4",
+                    "option_text": "Ausencia de entidades que debieran estar presentes en el municipio",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "5",
+                    "option_text": "Otro ¿Cuál?",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "6",
+                    "option_text": "Ninguno",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 3,
+            "id": 24,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P24",
+            "question_text": "¿A qué instancias de coordinación usted pertenece?",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Consejo Municipal de Seguridad",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "Comité Municipal de Justicia Transicional",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "3",
+                    "option_text": "Comité Municipal de Casa de Justicia o Centro de Convivencia Ciudadana",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "4",
+                    "option_text": "Comité Coordinador de Casa de Justicia o Centro de Convivencia Ciudadana",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "5",
+                    "option_text": "Comité Municipal de Derechos Humanos y Derecho Internacional Humanitario",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "6",
+                    "option_text": "Consejo Municipal de Política Social",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "7",
+                    "option_text": "Consejo Municipal de Paz, Reconciliación y Convivencia",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "8",
+                    "option_text": "Mesa Municipal de Participación de Víctimas",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "9",
+                    "option_text": "Comité Municipal de Convivencia Escolar",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "10",
+                    "option_text": "Consejo de Gobierno",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "11",
+                    "option_text": "Comisión Municipal de Policía y Participación Ciudadana",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "12",
+                    "option_text": "Comité Interinstitucional Consultivo para la Prevención de la Violencia Sexual y Atención Integral de los Niños, Niñas y Adolescentes (NNA) Víctimas del Abuso Sexual",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "13",
+                    "option_text": "Comité Municipal para la Lucha contra la Trata de Personas",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "14",
+                    "option_text": "Comité Territorial de Orden Público",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "15",
+                    "option_text": "Comité Local de Justicia",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "16",
+                    "option_text": "Otros, ¿cuáles?",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 3,
+            "id": 25,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P25",
+            "question_text": "¿Con cuáles actores u operadores se articula usted para el cumplimiento de sus funciones en materia de acceso a la justicia?",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 3,
+            "id": 27,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P27",
+            "question_text": "¿Cuál es la oferta de servicios de acceso a la justicia que ustedes brindan a la comunidad?",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 3,
+            "id": 28,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P28",
+            "question_text": "¿Cuáles acciones de comunicación y divulgación se realizan para que la comunidad conozca la oferta de servicios de acceso a la justicia?",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 4,
+            "id": 32,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P31",
+            "question_text": "¿Cuáles considera que son las principales barreras de acceso a la justicia que se presentan en este municipio?",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 4,
+            "id": 33,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P32",
+            "question_text": "¿Cuáles de las siguientes subcategorías de barreras de acceso a la justicia se presentan en el municipio?",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "1.1",
+                    "option_text": "Atención inadecuada por razón de la condición cultural o lingüística.",
+                    "question_parent": 82,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "1.2",
+                    "option_text": "Falta de información, rutas de atención y asistencia legal de fácil comprensión o disponible en lenguas minoritarias.",
+                    "question_parent": 82,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "1.3",
+                    "option_text": "Falta de articulación y coordinación entre la justicia propia afro y la jurisdicción ordinaria.",
+                    "question_parent": 82,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "1.4",
+                    "option_text": "Falta de articulación y coordinación entre la Justicia Especial Indígena y la jurisdicción ordinaria.",
+                    "question_parent": 82,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "1.5",
+                    "option_text": "Falta de asistencia de traductores o intérpretes dentro de los procedimientos o trámites legales.",
+                    "question_parent": 82,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "1.6",
+                    "option_text": "Otro, ¿Cuál?",
+                    "question_parent": 82,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "3.1",
+                    "option_text": "Miedo a denunciar o a continuar con los trámites por amenazas o control territorial de grupos armados.",
+                    "question_parent": 84,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "3.2",
+                    "option_text": "Justicias paralelas",
+                    "question_parent": 84,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "3.3",
+                    "option_text": "Afectación en la prestación de servicios de justicia por violencia contra operadores (p. ej. Cierre de oficinas, traslados de despachos, entre otros).",
+                    "question_parent": 84,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "3.4",
+                    "option_text": "Otro, ¿Cuál?",
+                    "question_parent": 84,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "4.1",
+                    "option_text": "Falta de medios de transporte adecuados para movilizarse hasta donde se prestan los servicios de justicia (Vehículos accesibles, sillas de ruedas, entre otros).",
+                    "question_parent": 85,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "4.2",
+                    "option_text": "Falta de intérpretes o de asistencia adecuada (para personas con dificultades para ver o escuchar).",
+                    "question_parent": 85,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "4.3",
+                    "option_text": "Falta de edificaciones o infraestructura accesible para personas con discapacidad (ausencia de rampas, pasillos estrechos, entre otros).",
+                    "question_parent": 85,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "4.4",
+                    "option_text": "Otro, ¿Cuál?",
+                    "question_parent": 85,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "5.1",
+                    "option_text": "Falta de recursos para contratar un abogado.",
+                    "question_parent": 86,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "5.2",
+                    "option_text": "Falta de abogados o defensores de oficio en el lugar.",
+                    "question_parent": 86,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "5.3",
+                    "option_text": "Falta de recursos para trasladarse al lugar donde se prestan servicios de justicia.",
+                    "question_parent": 86,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "5.4",
+                    "option_text": "Falta de recursos para la conectividad.",
+                    "question_parent": 86,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "5.5",
+                    "option_text": "Falta de recursos para la atención de gastos procesales y pre procesales (p. ej. dictámenes periciales, transporte de testigos o contacto con los mismos, investigadores, entre otros).",
+                    "question_parent": 86,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "5.6",
+                    "option_text": "Altos costos de oportunidad (tiempo que toma y se destinará) para atender el trámite, proceso o procedimiento.",
+                    "question_parent": 86,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "5.7",
+                    "option_text": "Otro, ¿Cuál?",
+                    "question_parent": 86,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "6.1",
+                    "option_text": "Falta de presencia de operadores de justicia en zonas rurales.",
+                    "question_parent": 87,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "6.2",
+                    "option_text": "Falta de infraestructura vial o de oferta de transporte para movilizarse a donde se prestan servicios de justicia.",
+                    "question_parent": 87,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "6.3",
+                    "option_text": "Dificultades para acceder a los operadores de justicia en razón de la distancia que debe recorrerse o de las condiciones geográficas (p. ej. accidentes geográficos).",
+                    "question_parent": 87,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "6.4",
+                    "option_text": "Otro, ¿Cuál?",
+                    "question_parent": 87,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "7.1",
+                    "option_text": "Lentitud y larga duración de los trámites y procesos de los servicios de justicia.",
+                    "question_parent": 88,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "7.2",
+                    "option_text": "Incumplimiento de acuerdos o sentencias.",
+                    "question_parent": 88,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "7.3",
+                    "option_text": "Excesivos trámites y formalidades, procesos demasiado complejos.",
+                    "question_parent": 88,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "7.4",
+                    "option_text": "Desconfianza en los operadores de justicia y en la institucionalidad en general.",
+                    "question_parent": 88,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "7.5",
+                    "option_text": "Percepción de impunidad en el sistema de justicia.",
+                    "question_parent": 88,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "7.6",
+                    "option_text": "Falta de implementación o promoción de los Métodos de Resolución de Conflictos.",
+                    "question_parent": 88,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "7.7",
+                    "option_text": "Falta de articulación y coordinación entre actores y operadores de justicia.",
+                    "question_parent": 88,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "7.8",
+                    "option_text": "Desconocimiento de derechos, deberes y de los diversos mecanismos de acceso a la justicia.",
+                    "question_parent": 88,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "7.9",
+                    "option_text": "Alta rotación de servidores en el sector justicia.",
+                    "question_parent": 88,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "7.10",
+                    "option_text": "Falta de conocimientos o competencias de los actores y operadores de justicia.",
+                    "question_parent": 88,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "7.11",
+                    "option_text": "Falta de recursos financieros, físicos y humanos para atender de forma oportuna y suficiente las necesidades jurídicas.",
+                    "question_parent": 88,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "7.12",
+                    "option_text": "Otro, ¿Cuál?",
+                    "question_parent": 88,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "8.1",
+                    "option_text": "Falta de equipos o infraestructura tecnológica a disposición de los actores y operadores de justicia.",
+                    "question_parent": 89,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "8.2",
+                    "option_text": "Las personas no cuentan con equipos o sistemas que les permitan acceder en línea a los servicios de justicia.",
+                    "question_parent": 89,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "8.3",
+                    "option_text": "Deficiente conectividad en zonas rurales (veredas o corregimientos).",
+                    "question_parent": 89,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "8.4",
+                    "option_text": "Deficiente conectividad en el casco urbano de los municipios o distritos.",
+                    "question_parent": 89,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "8.5",
+                    "option_text": "Otro, ¿Cuál?",
+                    "question_parent": 89,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 5,
+            "id": 34,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P33",
+            "question_text": "¿Cuáles problemas / desacuerdos / conflictos y disputas tramita usted con mayor frecuencia?",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 5,
+            "id": 35,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P34",
+            "question_text": "¿Cuáles de las siguientes tipologías de problemas se tramitan con mayor frecuencia desde su competencia?",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 5,
+            "id": 36,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P35",
+            "question_text": "¿En qué zonas del municipio se están presentando estos problemas / desacuerdos / conflictos y disputas?",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 5,
+            "id": 37,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P36",
+            "question_text": "¿Existe ruta/protocolo de atención para estos problemas / desacuerdos / conflictos y disputas?",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 5,
+            "id": 38,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P37",
+            "question_text": "¿Existe material pedagógico para comunicar la ruta/protocolo de atención a la comunidad?",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 5,
+            "id": 39,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P38",
+            "question_text": "¿Cuántos casos de este tipo de problemas se atienden mensualmente?",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 6,
+            "id": 40,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P39",
+            "question_text": "¿Existe algún tipo de coordinación con autoridades indígenas para el trámite de los casos que usted atiende y que tengan relación con estas comunidades?",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 6,
+            "id": 41,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P40",
+            "question_text": "¿Existe algún tipo de coordinación con comunidades negras y afrocolombianas para el trámite de los casos que usted atiende y que tengan relación con estas comunidades?",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 1,
+            "id": 49,
+            "parent_question_id": 9,
+            "survey_id": 1,
+            "question_number": "P9.1",
+            "question_text": "Justicia Formal",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Juez/a",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "Fiscal",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 1,
+            "id": 50,
+            "parent_question_id": 9,
+            "survey_id": 1,
+            "question_number": "P9.2",
+            "question_text": "Justicia alternativa o no formal",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "3",
+                    "option_text": "Coordinador/a del Centro de Conciliación",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "4",
+                    "option_text": "Conciliador/a en derecho",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "5",
+                    "option_text": "Conciliador/a en equidad",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "6",
+                    "option_text": "Mediador/a",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "7",
+                    "option_text": "Notario/a",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 1,
+            "id": 51,
+            "parent_question_id": 9,
+            "survey_id": 1,
+            "question_number": "P9.3",
+            "question_text": "Justicia administrativa",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "8",
+                    "option_text": "Comisario/a de familia",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "9",
+                    "option_text": "Coordinador/a Centro Zonal del ICBF",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "10",
+                    "option_text": "Corregidor/a municipal",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "11",
+                    "option_text": "Inspector/a de policía",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 1,
+            "id": 52,
+            "parent_question_id": 9,
+            "survey_id": 1,
+            "question_number": "P9.4",
+            "question_text": "Actores comunitarios",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "12",
+                    "option_text": "Representante de Junta de Acción Comunal / Asojuntas",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 1,
+            "id": 53,
+            "parent_question_id": 9,
+            "survey_id": 1,
+            "question_number": "P9.5",
+            "question_text": "Instancias de promoción de la justicia",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "13",
+                    "option_text": "Coordinador/a Casa de Justicia o Centro de Convivencia",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "14",
+                    "option_text": "Representante del Consultorio jurídico de las Universidades",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 1,
+            "id": 54,
+            "parent_question_id": 9,
+            "survey_id": 1,
+            "question_number": "P9.6",
+            "question_text": "Jurisdicción especial",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "15",
+                    "option_text": "Juez/a de paz – Juez/a de reconsideración",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 3,
+            "id": 59,
+            "parent_question_id": 25,
+            "survey_id": 1,
+            "question_number": "P25.1",
+            "question_text": "Justicia Formal",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Juzgados",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "Fiscalía",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "3",
+                    "option_text": "Policía judicial",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "4",
+                    "option_text": "Hospital Local",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "5",
+                    "option_text": "Instituto Nacional de Medicina Legal",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "31",
+                    "option_text": "Otro, ¿Cuál?",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "32",
+                    "option_text": "Ninguno",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "1",
+                    "option_text": "Juzgados",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "Fiscalía",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "3",
+                    "option_text": "Policía judicial",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "4",
+                    "option_text": "Hospital Local",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "5",
+                    "option_text": "Instituto Nacional de Medicina Legal",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 3,
+            "id": 60,
+            "parent_question_id": 25,
+            "survey_id": 1,
+            "question_number": "P25.2",
+            "question_text": "Justicia alternativa o no formal",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "6",
+                    "option_text": "Centro de Conciliación",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "7",
+                    "option_text": "Conciliadores en derecho",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "8",
+                    "option_text": "Conciliadores en equidad",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "9",
+                    "option_text": "Mediadores, árbitros, amigables componedores",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "10",
+                    "option_text": "Notaría",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "6",
+                    "option_text": "Centro de Conciliación",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "7",
+                    "option_text": "Conciliadores en derecho",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "8",
+                    "option_text": "Conciliadores en equidad",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "9",
+                    "option_text": "Mediadores, árbitros, amigables componedores",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "10",
+                    "option_text": "Notaría",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 3,
+            "id": 61,
+            "parent_question_id": 25,
+            "survey_id": 1,
+            "question_number": "P25.3",
+            "question_text": "Justicia administrativa",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "11",
+                    "option_text": "Comisaría de familia",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "12",
+                    "option_text": "Coordinador Centro Zonal del ICBF",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "13",
+                    "option_text": "Corregidores",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "14",
+                    "option_text": "Inspección de policía",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "15",
+                    "option_text": "Inspección de tránsito",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "11",
+                    "option_text": "Comisaría de familia",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "12",
+                    "option_text": "Coordinador Centro Zonal del ICBF",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "13",
+                    "option_text": "Corregidores",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "14",
+                    "option_text": "Inspección de policía",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "15",
+                    "option_text": "Inspección de tránsito",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 3,
+            "id": 62,
+            "parent_question_id": 25,
+            "survey_id": 1,
+            "question_number": "P25.4",
+            "question_text": "Actores comunitarios",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "16",
+                    "option_text": "Juntas de Acción Comunal - JAC",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "17",
+                    "option_text": "Promotores comunitarios de paz",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "18",
+                    "option_text": "Casa de justicia / Centro de convivencia ciudadana",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "19",
+                    "option_text": "Consultorios jurídicos de Universidades",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "20",
+                    "option_text": "Funcionarios delegados de la Cámara de Comercio para métodos de resolución de conflictos y temas sociales",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "16",
+                    "option_text": "Juntas de Acción Comunal - JAC",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "17",
+                    "option_text": "Promotores comunitarios de paz",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "18",
+                    "option_text": "Casa de justicia / Centro de convivencia ciudadana",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "19",
+                    "option_text": "Consultorios jurídicos de Universidades",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "20",
+                    "option_text": "Funcionarios delegados de la Cámara de Comercio para métodos de resolución de conflictos y temas sociales",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 3,
+            "id": 63,
+            "parent_question_id": 25,
+            "survey_id": 1,
+            "question_number": "P25.5",
+            "question_text": "Jurisdicción especial",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "21",
+                    "option_text": "Pueblos indígenas",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "22",
+                    "option_text": "Jueces de paz",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "21",
+                    "option_text": "Pueblos indígenas",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "22",
+                    "option_text": "Jueces de paz",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 3,
+            "id": 64,
+            "parent_question_id": 25,
+            "survey_id": 1,
+            "question_number": "P25.6",
+            "question_text": "Jurisdicción especial para la paz",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "23",
+                    "option_text": "Enlace territorial de la JEP",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "23",
+                    "option_text": "Enlace territorial de la JEP",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 3,
+            "id": 65,
+            "parent_question_id": 25,
+            "survey_id": 1,
+            "question_number": "P25.7",
+            "question_text": "Ministerio público",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "24",
+                    "option_text": "Personería municipal",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "25",
+                    "option_text": "Defensoría del pueblo",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "24",
+                    "option_text": "Personería municipal",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "25",
+                    "option_text": "Defensoría del pueblo",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 3,
+            "id": 66,
+            "parent_question_id": 25,
+            "survey_id": 1,
+            "question_number": "P25.8",
+            "question_text": "Autoridades Municipales",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "26",
+                    "option_text": "Alcaldía",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "27",
+                    "option_text": "Secretaría de gobierno / interior",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "28",
+                    "option_text": "Concejo Municipal",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "26",
+                    "option_text": "Alcaldía",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "27",
+                    "option_text": "Secretaría de gobierno / interior",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "28",
+                    "option_text": "Concejo Municipal",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 3,
+            "id": 67,
+            "parent_question_id": 25,
+            "survey_id": 1,
+            "question_number": "P25.9",
+            "question_text": "Fuerza pública (Policía Nacional)",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "29",
+                    "option_text": "Comandante de la estación de Policía",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "30",
+                    "option_text": "Policía de Infancia y Adolescencia",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "29",
+                    "option_text": "Comandante de la estación de Policía",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "30",
+                    "option_text": "Policía de Infancia y Adolescencia",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "31",
+                    "option_text": "Otro ¿Cuál? ",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "32",
+                    "option_text": "Ninguno",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 1,
+            "id": 9,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P9",
+            "question_text": "¿Qué tipo de actor / operador de justicia usted representa?",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": []
+        },
+        {
+            "chapter_id": 3,
+            "id": 18,
+            "parent_question_id": null,
+            "survey_id": 1,
+            "question_number": "P18",
+            "question_text": "¿De los siguientes mecanismos, cuáles dispone la entidad u organización que usted representa para hacer el registro continuo y actualizado de los casos que se atienden?",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Archivo físico / cuadernos",
+                    "question_parent": 0,
+                    "comment_response": "Pase a la pregunta P19"
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "Paquete informático (Ejemplo: Excel / Word)",
+                    "question_parent": 0,
+                    "comment_response": "Pase a la pregunta P19"
+                },
+                {
+                    "option_value": "3",
+                    "option_text": "Sistema de información especializado",
+                    "question_parent": 0,
+                    "comment_response": "Pase a la pregunta P19"
+                },
+                {
+                    "option_value": "4",
+                    "option_text": "Otro ¿Cuál?",
+                    "question_parent": 0,
+                    "comment_response": "Pase a la pregunta P19"
+                },
+                {
+                    "option_value": "5",
+                    "option_text": "Ninguno",
+                    "question_parent": 0,
+                    "comment_response": "Pase a la pregunta P20"
+                }
+            ]
+        },
+        {
+            "chapter_id": 1,
+            "id": 55,
+            "parent_question_id": 9,
+            "survey_id": 1,
+            "question_number": "P9.7",
+            "question_text": "Ministerio público",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "16",
+                    "option_text": "Personero/a municipal",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "17",
+                    "option_text": "Defensor/a público/a",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 1,
+            "id": 56,
+            "parent_question_id": 9,
+            "survey_id": 1,
+            "question_number": "P9.8",
+            "question_text": "Fuerza pública",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "18",
+                    "option_text": "Comandante de la estación de policía",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "19",
+                    "option_text": "Policía de infancia y adolescencia",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 1,
+            "id": 57,
+            "parent_question_id": 9,
+            "survey_id": 1,
+            "question_number": "P9.9",
+            "question_text": "Autoridades municipales",
+            "response_type": "RM",
+            "comment_question": null,
+            "response_options": [
+                {
+                    "option_value": "20",
+                    "option_text": "Secretario/a de gobierno / interior",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "21",
+                    "option_text": "Enlace del SLJ en la administración municipal",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 3,
+            "id": 82,
+            "parent_question_id": 32,
+            "survey_id": 1,
+            "question_number": "P31.1",
+            "question_text": "Culturales y lingüísticas: Obstáculos o dificultades para la satisfacción de necesidades jurídicas en razón de la pertenencia a grupos culturales o lingüísticos minoritarios.",
+            "response_type": "boolean",
+            "comment_question": "Si la respuesta es Sí, profundizar con la P32.1 de lo contrario pase a P31.2",
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Sí",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "No",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 3,
+            "id": 83,
+            "parent_question_id": 32,
+            "survey_id": 1,
+            "question_number": "P31.2",
+            "question_text": "De Género: Obstáculos o dificultades para la satisfacción de necesidades jurídicas en razón del sexo, la identidad de género, orientación sexual o expresión de género.",
+            "response_type": "boolean",
+            "comment_question": "Si la respuesta es Sí, profundizar con la P32.2 de lo contrario pase a P31.3",
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Sí",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "No",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 3,
+            "id": 84,
+            "parent_question_id": 32,
+            "survey_id": 1,
+            "question_number": "P31.3",
+            "question_text": "De seguridad, orden público o asociadas al conflicto armado: Obstáculos o dificultades para la satisfacción de una necesidad jurídica debido a la percepción de peligro frente a la vida o la integridad personal.",
+            "response_type": "boolean",
+            "comment_question": "Si la respuesta es Sí, profundizar con la P32.3 de lo contrario pase a P31.4",
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Sí",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "No",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 3,
+            "id": 85,
+            "parent_question_id": 32,
+            "survey_id": 1,
+            "question_number": "P31.4",
+            "question_text": "Discapacidad: Obstáculos o dificultades para la satisfacción de necesidades jurídicas en razón de la condición de discapacidad de las personas.",
+            "response_type": "boolean",
+            "comment_question": "Si la respuesta es Sí, profundizar con la P32.4 de lo contrario pase a P31.5",
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Sí",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "No",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 3,
+            "id": 86,
+            "parent_question_id": 32,
+            "survey_id": 1,
+            "question_number": "P31.5",
+            "question_text": "Económicas: Se refiere a las dificultades de las personas para asumir los costos que implica el acceso a los servicios de justicia o los obstáculos que enfrentan al intentar acceder a dichos servicios.",
+            "response_type": "boolean",
+            "comment_question": "Si la respuesta es Sí, profundizar con la P32.5 de lo contrario pase a P32",
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Sí",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "No",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 3,
+            "id": 87,
+            "parent_question_id": 32,
+            "survey_id": 1,
+            "question_number": "P31.6",
+            "question_text": "Geográficas Definición. Obstáculos o dificultades para la satisfacción de necesidades jurídicas en razón de la ubicación geográfica, las distancias, medios y vías de comunicación o transporte.",
+            "response_type": "boolean",
+            "comment_question": "(Si la respuesta es SI, profundizar con la P32.6 de lo contrario pase a P31.7)",
+            "response_options": []
+        },
+        {
+            "chapter_id": 3,
+            "id": 88,
+            "parent_question_id": 32,
+            "survey_id": 1,
+            "question_number": "P31.7",
+            "question_text": "Institucionales Definición. Se refieren a dificultades en el acceso en razón a la estructura, políticas, procesos y dinámicas de los sistemas de justicia.",
+            "response_type": "boolean",
+            "comment_question": "(Si la respuesta es SI, profundizar con la P32.7 de lo contrario pase a P31.8)",
+            "response_options": []
+        },
+        {
+            "chapter_id": 3,
+            "id": 89,
+            "parent_question_id": 32,
+            "survey_id": 1,
+            "question_number": "P31.8",
+            "question_text": "Tecnológicas Definición. Dificultades en el acceso a la justicia por la falta de equipos, sistemas tecnológicos, redes o infraestructura de conectividad.",
+            "response_type": "boolean",
+            "comment_question": "(Si la respuesta es SI, profundizar con la P32.8 de lo contrario pase a P33)",
+            "response_options": []
+        },
+        {
+            "chapter_id": 5,
+            "id": 90,
+            "parent_question_id": 34,
+            "survey_id": 1,
+            "question_number": "33.1",
+            "question_text": "Problemas relacionados con familiares como separación o divorcio, cuotas de alimentos, herencias o sucesiones, paternidad / maternidad, cuidado de personas que más lo requieren y gastos del hogar.",
+            "response_type": "RM",
+            "comment_question": "Si 1, No 2",
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Si",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "No",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 5,
+            "id": 91,
+            "parent_question_id": 34,
+            "survey_id": 1,
+            "question_number": "33.2",
+            "question_text": "Problemas relacionados con el consumo de un producto, bien o servicio (telefonía celular, televisión por cable, internet, transporte, alimentos, electrodomésticos y servicios técnicos o profesionales). Se excluyen los servicios públicos domiciliarios.",
+            "response_type": "RM",
+            "comment_question": "Si 1, No 2",
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Si",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "No",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 5,
+            "id": 92,
+            "parent_question_id": 34,
+            "survey_id": 1,
+            "question_number": "33.3",
+            "question_text": "Problemas relacionados con la prestación de un servicio público domiciliario como agua, luz, gas, alcantarillado o basuras.",
+            "response_type": "RM",
+            "comment_question": "Si 1, No 2",
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Si",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "No",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 5,
+            "id": 93,
+            "parent_question_id": 34,
+            "survey_id": 1,
+            "question_number": "33.4",
+            "question_text": "Problemas relacionados con su trabajo o empleo, como falta de pago de salarios, reconocimiento o formalización de la relación laboral, cambio en las condiciones laborales, despido, acoso.",
+            "response_type": "RM",
+            "comment_question": "Si 1, No 2",
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Si",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "No",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 5,
+            "id": 94,
+            "parent_question_id": 34,
+            "survey_id": 1,
+            "question_number": "33.5",
+            "question_text": "Problemas relacionados con deudas contraídas con el sector financiero, solidario o particulares, respecto a intereses elevados, hipotecas, embargos, quiebras, reportes a centrales de riesgo, deudas educativas.",
+            "response_type": "RM",
+            "comment_question": "Si 1, No 2",
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Si",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "No",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 5,
+            "id": 95,
+            "parent_question_id": 34,
+            "survey_id": 1,
+            "question_number": "33.6",
+            "question_text": "Problemas relacionados con la vivienda en la que habita o de la que es dueño, o problemas con vecinos por ruidos, malos olores, mascotas, chismes y otros.",
+            "response_type": "RM",
+            "comment_question": "Si 1, No 2",
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Si",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "No",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 5,
+            "id": 96,
+            "parent_question_id": 34,
+            "survey_id": 1,
+            "question_number": "33.7",
+            "question_text": "Problemas relacionados con el entorno o el espacio público, como el daño, deterioro o falta de paraderos, bancas, calles, puentes; invasión, uso indebido del espacio público o perjuicios por la ejecución de obras públicas.",
+            "response_type": "RM",
+            "comment_question": "Si 1, No 2",
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Si",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "No",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 5,
+            "id": 97,
+            "parent_question_id": 34,
+            "survey_id": 1,
+            "question_number": "33.8",
+            "question_text": "Problemas relacionados con la propiedad, uso y tenencia de la tierra como disputas sobre títulos, linderos, registro catastral o extinción de dominio.",
+            "response_type": "RM",
+            "comment_question": "Si 1, No 2",
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Si",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "No",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 5,
+            "id": 98,
+            "parent_question_id": 34,
+            "survey_id": 1,
+            "question_number": "33.9",
+            "question_text": "Problemas relacionados con el medio ambiente o el acceso a recursos comunitarios, como conflictos por el acceso a fuentes de agua, explotación ilegal de recursos ambientales o contaminación.",
+            "response_type": "RM",
+            "comment_question": "Si 1, No 2",
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Si",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "No",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 5,
+            "id": 99,
+            "parent_question_id": 34,
+            "survey_id": 1,
+            "question_number": "33.10",
+            "question_text": "Problemas relacionados con la prestación de los servicios de salud, pensión, riesgos laborales, como en la asignación de citas, medicamentos, calidad, oportunidad, afiliación, negación, reconocimiento o pago de la mesada pensional.",
+            "response_type": "RM",
+            "comment_question": "Si 1, No 2",
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Si",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "No",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 5,
+            "id": 100,
+            "parent_question_id": 34,
+            "survey_id": 1,
+            "question_number": "33.11",
+            "question_text": "Problemas en su relación con el Estado, referentes a multas, comparendos, pago de impuestos, expropiaciones, deficiencia en los servicios prestados, abuso de autoridad por policía y ejército o trámites de migrantes.",
+            "response_type": "RM",
+            "comment_question": "Si 1, No 2",
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Si",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "No",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 5,
+            "id": 101,
+            "parent_question_id": 34,
+            "survey_id": 1,
+            "question_number": "33.12",
+            "question_text": "Problemas relacionados con el servicio de educación y formación, como el acceso, la calidad, y el ambiente educativo (matoneo).",
+            "response_type": "RM",
+            "comment_question": "Si 1, No 2",
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Si",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "No",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 5,
+            "id": 102,
+            "parent_question_id": 34,
+            "survey_id": 1,
+            "question_number": "33.13",
+            "question_text": "Problemas relacionados con afectaciones, daños o perjuicios causados o derivados de delitos, como hurto, lesiones, calumnias, daños a la propiedad, secuestro, homicidio, ciberdelito, violencia sexual y violencia intrafamiliar.",
+            "response_type": "RM",
+            "comment_question": "Si 1, No 2",
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Si",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "No",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        },
+        {
+            "chapter_id": 5,
+            "id": 103,
+            "parent_question_id": 34,
+            "survey_id": 1,
+            "question_number": "33.14",
+            "question_text": "Problemas relacionados con afectaciones, daños o perjuicios causados o derivados del conflicto armado o problemas de orden público como desplazamiento forzado, terrorismo, despojo de tierras, extorsión.",
+            "response_type": "RM",
+            "comment_question": "Si 1, No 2",
+            "response_options": [
+                {
+                    "option_value": "1",
+                    "option_text": "Si",
+                    "question_parent": 0,
+                    "comment_response": null
+                },
+                {
+                    "option_value": "2",
+                    "option_text": "No",
+                    "question_parent": 0,
+                    "comment_response": null
+                }
+            ]
+        }
+    ]
+}
+    
